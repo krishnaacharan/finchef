@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/finchef/static/css/main.0b920151.css",
+    "main.js": "/finchef/static/js/main.42fb5773.js",
+    "static/js/453.3dd64b54.chunk.js": "/finchef/static/js/453.3dd64b54.chunk.js",
+    "index.html": "/finchef/index.html",
+    "main.0b920151.css.map": "/finchef/static/css/main.0b920151.css.map",
+    "main.42fb5773.js.map": "/finchef/static/js/main.42fb5773.js.map",
+    "453.3dd64b54.chunk.js.map": "/finchef/static/js/453.3dd64b54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b920151.css",
+    "static/js/main.42fb5773.js"
+  ]
+}
